@@ -8,7 +8,16 @@ NodeJS >= v22.0.4
 
 ## Setup Instructions
 
-1. Clone the Repository:
+1. **Clone the Repository:**
 ```sh
 git clone https://github.com/dante4rt/swisstronik-testnet.git
 cd swisstronik-testnet
+
+2. **Run the Setup Script:**
+
+
+3. **Follow the Prompts:**
+
+    * Choose JavaScript when prompted.
+    * Use the default directory (just press Enter).
+    * Press y to confirm any prompts.
